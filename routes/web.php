@@ -11,6 +11,11 @@
 |
 */
 
+// replace this root with a splash/landing page for the application... at least edit welcome.blade.php
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+// just for testing
+Route::get('login', function() { return "test"; });
