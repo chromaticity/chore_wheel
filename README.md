@@ -13,8 +13,10 @@ Of course you can contribute. Send a pull request over, or even clone the reposi
 This application is under the MIT license.
 
 
-#### Created With
+## Created With
 <p float="left">
-<a href="https://laravel.com"><img src="https://camo.githubusercontent.com/5ceadc94fd40688144b193fd8ece2b805d79ca9b/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://vuejs.org/"><img src="https://camo.githubusercontent.com/728ce9f78c3139e76fa69925ad7cc502e32795d2/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" height="70"></a>
+<a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" height="66"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react.svg" height="66"></a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://www.mongodb.com/"><img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" height="66"></a>
 </p>
